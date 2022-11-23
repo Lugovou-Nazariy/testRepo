@@ -1,4 +1,5 @@
 # Test Repo
 # new
 
-Lorem text
+New text
+Some very great text
