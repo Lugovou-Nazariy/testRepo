@@ -5,3 +5,5 @@ function sayHi(){
 function sayBye(){
   alert('Hello from Git');
 }
+
+// more changes here too
